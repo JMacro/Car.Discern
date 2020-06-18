@@ -205,13 +205,6 @@
     <ClInclude Include="..\thirdparty\textDetect\erfilter.hpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\LICENSE" />
-    <None Include="..\README.md" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="..\关于版权.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <Xml Include="..\resources\model\ann.xml" />
     <Xml Include="..\resources\model\haarcascade_frontalface_alt_tree.xml" />
     <Xml Include="..\resources\model\haarcascade_frontalface_default.xml" />
